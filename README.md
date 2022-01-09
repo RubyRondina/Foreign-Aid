@@ -36,13 +36,13 @@ You can click [here](https://public.tableau.com/app/profile/ruby.rondina/viz/ODA
 
 A better measure of ODA on recipients is how much it contributes to the country's GNI % (ie percentage of Gross National Income).
 
-The chart below shows which country\'92s ODA went the furthest in contributing to their Gross National Income for that year.  These are mostly countries in the midst of / recovering from war, or very small and remote island states like Tuvalu in the South Pacific.
+The chart below shows which country's ODA went the furthest in contributing to their Gross National Income for that year.  These are mostly countries in the midst of / recovering from war, or very small and remote island states like Tuvalu in the South Pacific.
 
 ![RecipientsinGNI](https://github.com/RubyRondina/Foreign-Aid/blob/main/Visuals/TopRecipientsInPercentOfGNI.png)
 
 The chart above lists the top ODA Recipients in percentage of GNI.
 
-You can click [here](https://public.tableau.com/app/profile/ruby.rondina/viz/ForeignAide/Story1) to see the **full list of top recipients in percentage of GNI by rank.**
+You can click [here](https://public.tableau.com/app/profile/ruby.rondina/viz/ForeignAide_16417085747160/Dashboard5) to see the **full list of top recipients in percentage of GNI by rank.**
 
 <br>
 
@@ -64,7 +64,7 @@ Canada's ODA donations have been generally increasing in the past 20 years.
  
 <p align="center"><img width="750" height="" src="https://github.com/RubyRondina/Foreign-Aid/blob/main/Visuals/CanadaDonation.png"></p>
 
-Canada is part of the DAC member of countries.  DAC stands for Development Assistance Committee.  Our biggest yearly donation in the new millennium has been to Haiti during the 2010 earthquake.
+Canada is part of the DAC member of countries.  DAC stands for Development Assistance Committee.  Our biggest donation in one year has been to Haiti during the 2010 earthquake.
 
 ![CanadaTopFlows](https://github.com/RubyRondina/Foreign-Aid/blob/main/Visuals/CanadaTopFlows.png)
 
