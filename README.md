@@ -1,4 +1,4 @@
-# Project 3: Foreign Aide in the New Millennium
+# Project 3: Foreign Aid in the New Millennium
 
 <p align="left"><img width="500" height="" src="https://github.com/RubyRondina/Foreign-Aid/blob/main/Visuals/aid.jpeg"></p>
 
