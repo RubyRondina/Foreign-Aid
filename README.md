@@ -46,7 +46,7 @@ You can click [here](https://public.tableau.com/app/profile/ruby.rondina/viz/For
 
 <br>
 
-## Top Donors of ODA by Dollar Value
+## Top Donors of ODA
 
 The United States donates the most ODA in terms of dollar value.
 
