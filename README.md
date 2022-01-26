@@ -4,6 +4,11 @@
 
 **Project Creation Date**: *November 2021*
 
+Jump directly to my [**Tableau Public**](https://public.tableau.com/app/profile/ruby.rondina/viz/ForeignAide/Story1) to see interactive dashboards and the full visual story on this project.
+<br>
+
+## Introduction
+
 This is an overview of the top donors and recipients of foreign aid since the year 2000.
 
 Foreign aid is the voluntary transfer of capital, goods or services from one country to another, given by governments of richer countries to promote the economic development of poorer countries and the welfare of their people.
@@ -70,4 +75,4 @@ Canada is part of the DAC member of countries.  DAC stands for Development Assis
 
 <br>
 
-**Please also visit my [Tableau Public](https://public.tableau.com/app/profile/ruby.rondina/viz/ForeignAide/Story1) to see interactive dashboards and the full story on this project.**}
+**Please also visit my [Tableau Public](https://public.tableau.com/app/profile/ruby.rondina/viz/ForeignAide/Story1) to see interactive dashboards and the full story on this project.**
